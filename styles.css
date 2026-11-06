@@ -1,0 +1,45 @@
+#banner {
+    width: 100%;
+    height: auto;
+        }
+body {
+    background: linear-gradient(180deg,rgba(3, 122, 168, 1) 0%, rgba(5, 84, 102, 1) 100%) no-repeat;
+    font-family: 'Brush Script MT', cursive;
+    color: #9bf2c4;
+    font-size: 20px;
+    }
+p {
+    padding: 3%;
+    padding-bottom: 0%;
+    }
+h1 {
+    text-align: center;
+    }
+h2 {
+    text-align: center;
+    }
+h3 {
+    text-align: center;
+    }
+.navBar {
+    position: sticky;
+    top: 0;
+    border: 5px solid #072c61;
+    width: 100%;
+    height: 50px;
+    background: #072c61;
+    text-align: center;
+    }
+ .navItem {
+        padding-right: 25px;
+        font-size: 15px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+.charstats {
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 0cm;
+    padding-bottom: 0cm;
+}
+a {
+    color: black;
+    }
